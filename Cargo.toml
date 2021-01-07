@@ -1,0 +1,13 @@
+[package]
+name = "flexo"
+version = "0.1.0"
+authors = ["James Waples <james@wapl.es>"]
+edition = "2018"
+
+[dev-dependencies]
+embedded-graphics = "0.7.0-alpha.2"
+
+[dependencies]
+embedded-graphics-core = "0.1.1"
+
+
